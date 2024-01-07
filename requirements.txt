@@ -1,0 +1,7 @@
+streamlit
+pymongo
+google-api-python-client
+sqlalchemy
+mysql
+
+# AIzaSyC2UC1IvVb61_qBUFOM5ccPRmgJveDwwmg - d9697 api key
